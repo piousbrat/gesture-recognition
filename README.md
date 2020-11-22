@@ -1,7 +1,7 @@
 # gesture-recognition
 git clone https://github.com/piousbrat/gesture-recognition.git
 
-cd UmpireCV
+cd gesture-recognition
 
 pip install -r requirements.txt
 
